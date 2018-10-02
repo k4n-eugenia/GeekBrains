@@ -1,3 +1,4 @@
 print("hello")
 print("Dear friends")
 print("How do you do")
+print("Let's go to the party?")
